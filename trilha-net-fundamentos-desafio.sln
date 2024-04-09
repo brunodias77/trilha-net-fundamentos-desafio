@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "DesafioFundamentos\DesafioFundamentos.csproj", "{C3DF5AED-94F9-41B0-BF39-EA449C3DAD3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DF5AED-94F9-41B0-BF39-EA449C3DAD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DF5AED-94F9-41B0-BF39-EA449C3DAD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DF5AED-94F9-41B0-BF39-EA449C3DAD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DF5AED-94F9-41B0-BF39-EA449C3DAD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E0386A1-AFA5-4E1B-8F60-14601478F393}
+	EndGlobalSection
+EndGlobal
